@@ -1,0 +1,7 @@
+# pgcat extension
+comment = 'pgcat: enhanced logical replication'
+default_version = '1.0'
+module_pathname = '$libdir/pgcat'
+relocatable = false
+schema = 'pgcat'
+superuser = true
